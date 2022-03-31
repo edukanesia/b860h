@@ -6,7 +6,7 @@ Cara aktifkan wifi b860h v1/v2 armbian kernel 5.9.0 dan lainnya.
 1. Login sebagai **root** user
 2. Masuk ke folder **$ cd /boot/dtb/amlogic**
 3. Copy file dtb amlogic dengan cara
-4. '$ git clone' https://github.com/edukanesia/b860h.git
+4. $ git clone https://github.com/edukanesia/b860h.git
 5. Edit file /boot/extlinux/extlinux.conf arahkan ke dtb yg dicopy
 ![276145324_2984455218523043_5375553760803676421_n](https://user-images.githubusercontent.com/102713707/160979667-a68f24cc-279d-4f69-8d91-a60173ecd592.jpg)
 6. **Reboot**

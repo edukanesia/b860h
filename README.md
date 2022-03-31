@@ -14,3 +14,6 @@ Cara mengetahui wifi internal sudah aktif
 Cek di terminal ' dmesg |grep SDIO '
 kalo ada tulisan 'mmc2: new high speed SDIO card at address 0001' berarti sukses
 untuk driver wifi sudah ada di bawaan kernel 5.9.0 jadi otomatis terdetek
+
+
+Thanks for Mas Sidik Hakim 

@@ -20,7 +20,7 @@ untuk driver wifi sudah ada di bawaan kernel 5.9.0 jadi otomatis terdetek
 ![276137689_2984455195189712_5039484187729743701_n](https://user-images.githubusercontent.com/102713707/160979665-2dd9d2ff-6ad2-4d30-94e5-4eaf46235d56.jpg)
 
 **Thanks for 
-Mas Sidik Hakim**
+[Mas Sidik Hakim](https://www.facebook.com/groups/447949046027700/user/100008757824674/)**
 
 
 

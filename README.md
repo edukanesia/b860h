@@ -1,4 +1,4 @@
-# b860h - Wifi Internal di Armbian
+# Cara aktifkan wifi b860h v1/v2 armbian kernel 5.9.0 dan lainnya.
 DTB untuk B860H agar WIFI internal berfungsi dengan baik.
 
 
